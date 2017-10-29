@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/Go-speedy-Go', function(req,res) {
-    res.send('Article one is requested and will be served here');
+    res.send('Go-Speedy-Go is requested and will be served here');
 });
 
 app.get('/Student registration form', function(req,res) {
